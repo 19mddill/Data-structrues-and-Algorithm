@@ -188,6 +188,146 @@ All problem IDs are LeetCode numbers. Do in Python.
 
 ---
 
+# SWE Interview LeetCode List
+
+> ~57 problems covering core Software Engineering interview topics.
+> Problems marked ✅ are already solved by you.
+
+---
+
+## 1. String Manipulation (~10 problems)
+
+| # | Problem | Link | Status |
+|---|---------|------|--------|
+| LC 7 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | ✅ Solved |
+| LC 9 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | |
+| LC 14 | Longest Common Prefix | [Link](https://leetcode.com/problems/longest-common-prefix/) | |
+| LC 28 | Find the Index of First Occurrence in String | [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | |
+| LC 344 | Reverse String | [Link](https://leetcode.com/problems/reverse-string/) | ✅ Solved |
+| LC 345 | Reverse Vowels of a String | [Link](https://leetcode.com/problems/reverse-vowels-of-a-string/) | |
+| LC 387 | First Unique Character in a String | [Link](https://leetcode.com/problems/first-unique-character-in-a-string/) | |
+| LC 412 | FizzBuzz | [Link](https://leetcode.com/problems/fizzbuzz/) | |
+| LC 443 | String Compression | [Link](https://leetcode.com/problems/string-compression/) | |
+| LC 459 | Repeated Substring Pattern | [Link](https://leetcode.com/problems/repeated-substring-pattern/) | |
+
+---
+
+## 2. Math & Simulation (~8 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 9 | Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) |
+| LC 13 | Roman to Integer | [Link](https://leetcode.com/problems/roman-to-integer/) |
+| LC 66 | Plus One | [Link](https://leetcode.com/problems/plus-one/) |
+| LC 67 | Add Binary | [Link](https://leetcode.com/problems/add-binary/) |
+| LC 69 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) |
+| LC 168 | Excel Sheet Column Title | [Link](https://leetcode.com/problems/excel-sheet-column-title/) |
+| LC 171 | Excel Sheet Column Number | [Link](https://leetcode.com/problems/excel-sheet-column-number/) |
+| LC 202 | Happy Number | [Link](https://leetcode.com/problems/happy-number/) |
+
+---
+
+## 3. Sorting & Searching (~8 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 75 | Sort Colors | [Link](https://leetcode.com/problems/sort-colors/) |
+| LC 148 | Sort List | [Link](https://leetcode.com/problems/sort-list/) |
+| LC 179 | Largest Number | [Link](https://leetcode.com/problems/largest-number/) |
+| LC 274 | H-Index | [Link](https://leetcode.com/problems/h-index/) |
+| LC 349 | Intersection of Two Arrays | [Link](https://leetcode.com/problems/intersection-of-two-arrays/) |
+| LC 350 | Intersection of Two Arrays II | [Link](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
+| LC 378 | Kth Smallest Element in Sorted Matrix | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+| LC 451 | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/) |
+
+---
+
+## 4. Object Oriented Design (~6 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 146 | LRU Cache | [Link](https://leetcode.com/problems/lru-cache/) |
+| LC 155 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) |
+| LC 173 | Binary Search Tree Iterator | [Link](https://leetcode.com/problems/binary-search-tree-iterator/) |
+| LC 208 | Implement Trie | [Link](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| LC 225 | Implement Stack using Queues | [Link](https://leetcode.com/problems/implement-stack-using-queues/) |
+| LC 232 | Implement Queue using Stacks | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) |
+
+---
+
+## 5. Recursion & Divide and Conquer (~6 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 50 | Pow(x, n) | [Link](https://leetcode.com/problems/powx-n/) |
+| LC 169 | Majority Element | [Link](https://leetcode.com/problems/majority-element/) |
+| LC 190 | Reverse Bits | [Link](https://leetcode.com/problems/reverse-bits/) |
+| LC 191 | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) |
+| LC 338 | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) |
+| LC 371 | Sum of Two Integers | [Link](https://leetcode.com/problems/sum-of-two-integers/) |
+
+---
+
+## 6. Matrix / 2D Array (~8 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 48 | Rotate Image | [Link](https://leetcode.com/problems/rotate-image/) |
+| LC 54 | Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) |
+| LC 59 | Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii/) |
+| LC 73 | Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes/) |
+| LC 74 | Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/) |
+| LC 240 | Search a 2D Matrix II | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
+| LC 289 | Game of Life | [Link](https://leetcode.com/problems/game-of-life/) |
+| LC 304 | Range Sum Query 2D | [Link](https://leetcode.com/problems/range-sum-query-2d-immutable/) |
+
+---
+
+## 7. Bit Manipulation (~6 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 136 | Single Number | [Link](https://leetcode.com/problems/single-number/) |
+| LC 137 | Single Number II | [Link](https://leetcode.com/problems/single-number-ii/) |
+| LC 190 | Reverse Bits | [Link](https://leetcode.com/problems/reverse-bits/) |
+| LC 191 | Number of 1 Bits | [Link](https://leetcode.com/problems/number-of-1-bits/) |
+| LC 268 | Missing Number | [Link](https://leetcode.com/problems/missing-number/) |
+| LC 338 | Counting Bits | [Link](https://leetcode.com/problems/counting-bits/) |
+
+---
+
+## 8. System Design Coding (~5 problems)
+
+| # | Problem | Link |
+|---|---------|------|
+| LC 146 | LRU Cache | [Link](https://leetcode.com/problems/lru-cache/) |
+| LC 295 | Find Median from Data Stream | [Link](https://leetcode.com/problems/find-median-from-data-stream/) |
+| LC 355 | Design Twitter | [Link](https://leetcode.com/problems/design-twitter/) |
+| LC 380 | Insert Delete GetRandom O(1) | [Link](https://leetcode.com/problems/insert-delete-getrandom-o1/) |
+| LC 588 | Design In-Memory File System | [Link](https://leetcode.com/problems/design-in-memory-file-system/) |
+
+---
+
+## Priority Order
+
+| Priority | Topic | Why |
+|---|---|---|
+| 1st | String Manipulation | Direct from your interview experience |
+| 2nd | OOP Design | Asked in almost every SWE round |
+| 3rd | Matrix | Visual, builds intuition fast |
+| 4th | Bit Manipulation | Short problems, quick wins |
+| 5th | System Design Coding | Senior-level signal, sets you apart |
+
+---
+
+## Progress Tracker
+
+- Total problems: **57**
+- Solved: **2** (LC 7, LC 344)
+- Remaining: **55**
+
+> Tip: Aim for 2-3 problems per day. Combined with your ML list (~135 problems), you'll be interview-ready in 3-4 months.
+
 ## Deliberately excluded (CP-territory, low ROI for ML interviews)
 - Segment trees, Fenwick trees, tries (except if asked for autocomplete-style system design)
 - Heavy number theory (modular exponentiation, sieve variants, combinatorics beyond basics)
