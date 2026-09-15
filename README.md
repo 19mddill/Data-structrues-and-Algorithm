@@ -12,7 +12,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 4. ✅LC 49 — Group Anagrams
 5. ✅LC 347 — Top K Frequent Elements
 6. ✅LC 238 — Product of Array Except Self
-7. LC 128 — Longest Consecutive Sequence
+7. ✅LC 128 — Longest Consecutive Sequence
 8. LC 271 — Encode and Decode Strings
 9. LC 36 — Valid Sudoku
 10. LC 454 — 4Sum II
