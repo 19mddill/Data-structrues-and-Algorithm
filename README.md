@@ -6,7 +6,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 ---
 
 ## 1. Arrays & Hashing (Highest priority — ~20 problems)
-1. LC 1 — Two Sum
+1. == LC 1 — Two Sum ==
 2. LC 217 — Contains Duplicate
 3. LC 242 — Valid Anagram
 4. LC 49 — Group Anagrams
