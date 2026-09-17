@@ -16,7 +16,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 8. LC 271 — Encode and Decode Strings
 9. ✅LC 36 — Valid Sudoku
 10. ✅LC 454 — 4Sum II
-11. LC 383 — Ransom Note
+11. ✅LC 383 — Ransom Note
 12. LC 1512 — Number of Good Pairs
 13. LC 692 — Top K Frequent Words
 14. LC 895 — Maximum Frequency Stack
