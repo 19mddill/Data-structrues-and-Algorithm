@@ -20,7 +20,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 12. ✅LC 1512 — Number of Good Pairs
 13. ✅LC 692 — Top K Frequent Words
 14. ✅LC 895 — Maximum Frequency Stack
-15. LC 41 — First Missing Positive
+15. ✅LC 41 — First Missing Positive
 16. LC 560 — Subarray Sum Equals K
 17. LC 953 — Verifying an Alien Dictionary
 18. LC 496 — Next Greater Element I
