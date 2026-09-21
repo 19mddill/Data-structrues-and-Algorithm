@@ -22,7 +22,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 14. ✅LC 895 — Maximum Frequency Stack
 15. ✅LC 41 — First Missing Positive
 16. ✅**LC 560 — Subarray Sum Equals K
-17. LC 953 — Verifying an Alien Dictionary
+17. ✅LC 953 — Verifying an Alien Dictionary
 18. LC 496 — Next Greater Element I
 19. LC 1502 — Can Make Arithmetic Progression
 20. LC 1010 — Pairs of Songs With Total Durations Divisible by 60
