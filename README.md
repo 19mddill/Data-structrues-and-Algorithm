@@ -28,7 +28,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 20. ✅LC 1010 — Pairs of Songs With Total Durations Divisible by 60
 
 ## 2. Two Pointers (~10 problems)
-21. LC 125 — Valid Palindrome
+21. ✅LC 125 — Valid Palindrome
 22. LC 167 — Two Sum II (sorted array)
 23. LC 15 — 3Sum
 24. LC 11 — Container With Most Water
