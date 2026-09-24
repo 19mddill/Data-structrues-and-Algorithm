@@ -29,7 +29,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 
 ## 2. Two Pointers (~10 problems)
 21. ✅LC 125 — Valid Palindrome
-22. LC 167 — Two Sum II (sorted array)
+22. ✅LC 167 — Two Sum II (sorted array)
 23. LC 15 — 3Sum
 24. LC 11 — Container With Most Water
 25. LC 42 — Trapping Rain Water
