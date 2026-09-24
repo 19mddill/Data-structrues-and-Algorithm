@@ -25,7 +25,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 17. ✅LC 953 — Verifying an Alien Dictionary
 18. ✅LC 496 — Next Greater Element I
 19. ✅LC 1502 — Can Make Arithmetic Progression
-20. LC 1010 — Pairs of Songs With Total Durations Divisible by 60
+20. ✅LC 1010 — Pairs of Songs With Total Durations Divisible by 60
 
 ## 2. Two Pointers (~10 problems)
 21. LC 125 — Valid Palindrome
