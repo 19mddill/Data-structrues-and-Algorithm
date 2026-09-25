@@ -30,14 +30,15 @@ All problem IDs are LeetCode numbers. Do in Python.
 ## 2. Two Pointers (~10 problems)
 21. ✅LC 125 — Valid Palindrome
 22. ✅LC 167 — Two Sum II (sorted array)
-23. LC 15 — 3Sum
-24. LC 11 — Container With Most Water
-25. LC 42 — Trapping Rain Water
-26. LC 283 — Move Zeroes
-27. LC 26 — Remove Duplicates from Sorted Array
-28. LC 344 — Reverse String
-29. LC 977 — Squares of a Sorted Array
-30. LC 88 — Merge Sorted Array
+23. ✅LC 15 — 3Sum
+24. ✅LC 18 - 4Sum
+25. LC 11 — Container With Most Water
+26. LC 42 — Trapping Rain Water
+27. LC 283 — Move Zeroes
+28. LC 26 — Remove Duplicates from Sorted Array
+29. LC 344 — Reverse String
+30. LC 977 — Squares of a Sorted Array
+31. LC 88 — Merge Sorted Array
 
 ## 3. Sliding Window (~12 problems)
 31. LC 121 — Best Time to Buy and Sell Stock
