@@ -38,7 +38,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 28. ✅LC 26 — Remove Duplicates from Sorted Array
 29. ✅LC 344 — Reverse String
 30. ✅LC 977 — Squares of a Sorted Array
-31. LC 88 — Merge Sorted Array
+31. ✅LC 88 — Merge Sorted Array
 
 ## 3. Sliding Window (~12 problems)
 31. LC 121 — Best Time to Buy and Sell Stock
