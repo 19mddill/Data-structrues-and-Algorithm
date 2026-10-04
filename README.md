@@ -41,7 +41,7 @@ All problem IDs are LeetCode numbers. Do in Python.
 31. ✅LC 88 — Merge Sorted Array
 
 ## 3. Sliding Window (~12 problems)
-31. LC 121 — Best Time to Buy and Sell Stock
+31. ✅LC 121 — Best Time to Buy and Sell Stock
 32. LC 3 — Longest Substring Without Repeating Characters
 33. LC 424 — Longest Repeating Character Replacement
 34. LC 567 — Permutation in String
